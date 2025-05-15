@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "mcp-server-flomo": {
+      "command": "npx",
+      "args": [
+        "mcp-server-flomo"
+      ],
+      "env": {
+        "FLOMO_API_URL": ""
+      }
+    },
+    "mcp-github": {
+      "url": "https://mcp.higress.ai/mcp-github/cmagl3jzg004f7q019th5rzdc/sse"
+    }
+  }
+}
